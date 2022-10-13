@@ -1,0 +1,16 @@
+﻿  cubo.cpp
+  main.cpp
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(86,34): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(88,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(89,15): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(90,33): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(91,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(92,15): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(93,33): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(100,43): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(130,46): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(132,50): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(132,41): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\ProyectoCubo\main.cpp(132,32): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+  rubik_glfw.vcxproj -> C:\GLFW_GLAD_GLUT_GLEW_cmake_project\build\mak.vc16\x64\src\ProyectoCubo\Debug\rubik_glfw.exe
