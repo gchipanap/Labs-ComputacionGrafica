@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_07\main.cpp(188,30): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_07\main.cpp(194,144): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\GLFW_GLAD_GLUT_GLEW_cmake_project\src\Tutorial_07\main.cpp(194,73): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Tutorial_07_glfw.vcxproj -> C:\GLFW_GLAD_GLUT_GLEW_cmake_project\build\mak.vc16\x64\src\Tutorial_07\Debug\Tutorial_07_glfw.exe
